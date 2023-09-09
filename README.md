@@ -3,4 +3,8 @@
 - Created the UI with the React library and solved the state-management issues using Redux Toolkit.
 - Realized the version control using Git.
 
-[Test the app](https://smartbrain-aspy.onrender.com/) 👈🏻
+## How to try this app?
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
